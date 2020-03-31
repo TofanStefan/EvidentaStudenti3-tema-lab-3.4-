@@ -1,0 +1,10 @@
+C:\Users\Stefan\Desktop\TemaPiu\EvidentaStudenti\LibrarieEntitati\bin\Debug\LibrarieEntitati.dll
+C:\Users\Stefan\Desktop\TemaPiu\EvidentaStudenti\LibrarieEntitati\bin\Debug\LibrarieEntitati.pdb
+C:\Users\Stefan\Desktop\TemaPiu\EvidentaStudenti\LibrarieEntitati\obj\Debug\LibrarieEntitati.csprojAssemblyReference.cache
+C:\Users\Stefan\Desktop\TemaPiu\EvidentaStudenti\LibrarieEntitati\obj\Debug\LibrarieEntitati.dll
+C:\Users\Stefan\Desktop\TemaPiu\EvidentaStudenti\LibrarieEntitati\obj\Debug\LibrarieEntitati.pdb
+C:\Users\Stefan\Desktop\TemaPiu\Tema\EvidentaStudenti3\LibrarieEntitati\obj\Debug\LibrarieEntitati.csprojAssemblyReference.cache
+C:\Users\Stefan\Desktop\TemaPiu\Tema\EvidentaStudenti3\LibrarieEntitati\obj\Debug\LibrarieEntitati.dll
+C:\Users\Stefan\Desktop\TemaPiu\Tema\EvidentaStudenti3\LibrarieEntitati\obj\Debug\LibrarieEntitati.pdb
+C:\Users\Stefan\Desktop\TemaPiu\Tema\EvidentaStudenti3\LibrarieEntitati\bin\Debug\LibrarieEntitati.dll
+C:\Users\Stefan\Desktop\TemaPiu\Tema\EvidentaStudenti3\LibrarieEntitati\bin\Debug\LibrarieEntitati.pdb
